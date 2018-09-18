@@ -1,5 +1,5 @@
 # udm-gw-trading-partner-file-download
-UDM Script to automate Trading Partner File Download activities in UDM Gateway.
+UDM Gateway Script to Automate Trading Partner File Download Activities
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
